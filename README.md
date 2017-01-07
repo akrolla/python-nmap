@@ -1,4 +1,6 @@
 # python-nmap
 
 
--H <host IP> -p <port>
+
+
+# -H <host IP> -p <port> 
